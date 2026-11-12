@@ -6,7 +6,7 @@ An end-to-end data analytics project that asks whether base salary differs acros
 
 | Resource | Link |
 |---|---|
-| Dataset (Kaggle) | https://bsos-data.umd.edu/tr/dataset/stem-salaries?utm_source=chatgpt.com |
+| Dataset (Kaggle) | (https://bsos-data.umd.edu/tr/dataset/stem-salaries?)|
 | Full project report | [[REPORT]](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/Detailed%20report.pdf) |
 | Power BI dashboard | [[DASHBOARD LINK]](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_dashboard.pbit) |
 | Python notebook | [notebook/HR_notebook.ipynb](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_notebook.ipynb)|
@@ -151,11 +151,11 @@ A two-page interactive dashboard with a demographic selector (education, gender,
 ## Repository Structure
 
 ```
-├── data/              # [ADD] raw and refined dataset notes
-├── notebook/          # HR_notebook.ipynb
+├── data/              # (https://bsos-data.umd.edu/tr/dataset/stem-salaries?)
+├── notebook/          # [notebook/HR_notebook.ipynb](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_notebook.ipynb)
 ├── results/           # [ADD] statistical_analysis_results.xlsx
-├── dashboard/         # [ADD] HR_dashboard.pbit
-├── report/            # [ADD] Detailed report.pdf
+├── dashboard/         # (https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_dashboard.pbit)
+├── report/            # (https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/Detailed%20report.pdf) 
 └── README.md
 ```
 
