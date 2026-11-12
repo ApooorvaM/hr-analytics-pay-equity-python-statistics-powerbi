@@ -9,7 +9,7 @@ An end-to-end data analytics project that asks whether base salary differs acros
 | Dataset (Kaggle) | https://bsos-data.umd.edu/tr/dataset/stem-salaries?utm_source=chatgpt.com |
 | Full project report | [ADD REPORT LINK] |
 | Power BI dashboard | [ADD DASHBOARD LINK OR FILE PATH] |
-| Python notebook | HR_notebook.ipynb|
+| Python notebook | [View the Python notebook](notebook/HR_notebook.ipynb)|
 
 ---
 
