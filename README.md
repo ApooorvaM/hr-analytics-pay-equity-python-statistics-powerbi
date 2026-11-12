@@ -152,7 +152,7 @@ A two-page interactive dashboard with a demographic selector (education, gender,
 
 ```
 ├── data/              # (https://bsos-data.umd.edu/tr/dataset/stem-salaries?)
-├── notebook/          # [notebook/HR_notebook.ipynb](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_notebook.ipynb)
+├── notebook/          # (notebook/HR_notebook.ipynb)(https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_notebook.ipynb)
 ├── results/           # [ADD] statistical_analysis_results.xlsx
 ├── dashboard/         # (https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_dashboard.pbit)
 ├── report/            # (https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/Detailed%20report.pdf) 
