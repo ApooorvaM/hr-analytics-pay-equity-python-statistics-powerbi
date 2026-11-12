@@ -7,8 +7,8 @@ An end-to-end data analytics project that asks whether base salary differs acros
 | Resource | Link |
 |---|---|
 | Dataset (Kaggle) | https://bsos-data.umd.edu/tr/dataset/stem-salaries?utm_source=chatgpt.com |
-| Full project report | [[ADD REPORT LINK]](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/Detailed%20report.pdf) |
-| Power BI dashboard | [ADD DASHBOARD LINK OR FILE PATH] |
+| Full project report | [[REPORT]](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/Detailed%20report.pdf) |
+| Power BI dashboard | [[DASHBOARD LINK]](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_dashboard.pbit) |
 | Python notebook | [notebook/HR_notebook.ipynb](https://github.com/ApooorvaM/hr-analytics-pay-equity-python-statistics-powerbi/blob/main/HR_notebook.ipynb)|
 
 ---
