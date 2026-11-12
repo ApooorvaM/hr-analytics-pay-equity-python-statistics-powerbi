@@ -152,7 +152,7 @@ A two-page interactive dashboard with a demographic selector (education, gender,
 
 ```
 ├── data/              # [ADD] raw and refined dataset notes
-├── notebook/          # [ADD] HR_notebook.ipynb
+├── notebook/          # HR_notebook.ipynb
 ├── results/           # [ADD] statistical_analysis_results.xlsx
 ├── dashboard/         # [ADD] HR_dashboard.pbit
 ├── report/            # [ADD] Detailed report.pdf
